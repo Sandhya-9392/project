@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: bisque;
+    background-blend-mode: soft-light;
+    max-width: 500px;
+    margin: 20px auto;
+    border-radius: 50px;
+    box-shadow: 10px 10px rgba(0, 0, 0, 0.5);
+    color: black;
+    
+    background-image: url("../coffe.jpg")
+        
+}
+ input, select, button{
+    background-color: white;
+    color: aqua;
+}

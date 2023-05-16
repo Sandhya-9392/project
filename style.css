@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: wheat;
+    background-blend-mode: lighten;
+    max-width: 500px;
+    margin: 20px auto;
+    border-radius: 50px;
+    box-shadow: 10px 10px rgba(0, 0, 0, 0.5);
+    color: black;
+    
+}
+ input, select, button{
+    background-color: white;
+    color: aqua;
+}
