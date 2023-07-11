@@ -1,0 +1,15 @@
+body{
+    display: block;
+    
+
+}
+div{
+    display:  center;
+    color: whitesmoke;
+    background-color: black;
+    text-align: center;
+    
+}
+form{
+    display: center;
+}
